@@ -1,3 +1,3 @@
 # Personal website with Codersrank Widgets
 
- tlotlopkgotlafela.netlify.app
+[link to my personal website](https://tlotlopkgotlafela.netlify.app).
