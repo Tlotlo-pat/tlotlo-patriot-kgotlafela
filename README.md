@@ -1,2 +1,2 @@
 # Personal website with Codersrank Widgets
-[link to personal website!](tlotlopkgotlafela.netlify.app)
+[Link to My Personal Website!](tlotlopkgotlafela.netlify.app)
